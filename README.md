@@ -46,8 +46,6 @@ The system provides structured dashboards, secure authentication and scalable ba
 
 ## 🏗 Architecture
 
-The system follows a modular backend structure:
-
 Controller → Service → Repository pattern  
 
 - Clear separation of concerns  
@@ -79,22 +77,23 @@ Controller → Service → Repository pattern
 ## 📸 System Preview
 
 <p align="center">
-  <img src="./City%20Office%201.png" width="900"/>
-  <img src="./City%20Office%202.png" width="900"/>
-  <img src="./City%20Office%203.png" width="900"/>
-  <img src="./City%20Office%204.png" width="900"/>
+  <img src="./city-office/City%20Office%201.png" width="900"/>
+  <br/><br/>
+  <img src="./city-office/City%20Office%202.png" width="900"/>
+  <br/><br/>
+  <img src="./city-office/City%20Office%203.png" width="900"/>
+  <br/><br/>
+  <img src="./city-office/City%20Office%204.png" width="900"/>
 </p>
 
 ---
 
 ## 🧠 Engineering Decisions
 
-Some key decisions made during development:
-
-- Use of relational database to ensure financial consistency  
-- Modular backend structure for scalability  
-- Clear domain modeling for business entities  
-- Separation between financial logic and UI layer  
+- Relational database for financial consistency  
+- Modular backend for scalability  
+- Clear domain modeling  
+- UI isolated from business logic  
 - API-first backend design  
 
 ---
@@ -102,13 +101,13 @@ Some key decisions made during development:
 ## 📈 Future Improvements
 
 - Role-based access control  
-- Advanced reporting module  
+- Advanced reporting  
 - Multi-company support  
-- Performance optimization layer  
+- Performance optimization  
 
 ---
 
-## 🌍 Author
+## 👨‍💻 Author
 
 Brian Francisco  
 Full Stack Engineer • SaaS Builder  
