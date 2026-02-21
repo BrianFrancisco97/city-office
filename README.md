@@ -10,10 +10,10 @@ City Office centralizes business operations into a single scalable system — ha
 
 City Office was built to solve real operational problems faced by small and mid-sized businesses:
 
-- Lack of centralized financial visibility
-- Manual revenue & expense tracking
-- Disorganized client management
-- Fragmented operational data
+- Lack of centralized financial visibility  
+- Manual revenue & expense tracking  
+- Disorganized client management  
+- Fragmented operational data  
 
 The system provides structured dashboards, secure authentication and scalable backend architecture.
 
@@ -22,25 +22,25 @@ The system provides structured dashboards, secure authentication and scalable ba
 ## 🛠 Tech Stack
 
 ### Frontend
-- React
-- Component-based architecture
-- Reusable UI modules
+- React  
+- Component-based architecture  
+- Reusable UI modules  
 
 ### Backend
-- Node.js
-- Express
-- RESTful API structure
-- JWT authentication
+- Node.js  
+- Express  
+- RESTful API structure  
+- JWT authentication  
 
 ### Database
-- PostgreSQL
-- Relational modeling
-- Normalized schema
-- Foreign key integrity constraints
+- PostgreSQL  
+- Relational modeling  
+- Normalized schema  
+- Foreign key integrity constraints  
 
 ### Deployment
-- Cloud-ready architecture
-- Environment-based configuration
+- Cloud-ready architecture  
+- Environment-based configuration  
 
 ---
 
@@ -48,41 +48,41 @@ The system provides structured dashboards, secure authentication and scalable ba
 
 The system follows a modular backend structure:
 
-Controller → Service → Repository pattern
+Controller → Service → Repository pattern  
 
-- Clear separation of concerns
-- Business logic isolated from routing
-- Database access abstraction
-- Scalable and maintainable structure
+- Clear separation of concerns  
+- Business logic isolated from routing  
+- Database access abstraction  
+- Scalable and maintainable structure  
 
 ---
 
 ## 🔐 Authentication & Security
 
-- JWT-based authentication
-- Password hashing
-- Protected routes
-- Role-ready structure for future expansion
+- JWT-based authentication  
+- Password hashing  
+- Protected routes  
+- Role-ready structure for future expansion  
 
 ---
 
 ## 📊 Core Features
 
-- Financial dashboard with KPI tracking
-- Revenue & expense management
-- Client registration and control
-- Product management
-- Operational monitoring interface
+- Financial dashboard with KPI tracking  
+- Revenue & expense management  
+- Client registration and control  
+- Product management  
+- Operational monitoring interface  
 
 ---
 
 ## 📸 System Preview
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/BrianFrancisco97/city-office/main/City%20Office%201.png" width="900"/>
-  <img src="https://raw.githubusercontent.com/BrianFrancisco97/city-office/main/City%20Office%202.png" width="900"/>
-  <img src="https://raw.githubusercontent.com/BrianFrancisco97/city-office/main/City%20Office%203.png" width="900"/>
-  <img src="https://raw.githubusercontent.com/BrianFrancisco97/city-office/main/City%20Office%204.png" width="900"/>
+  <img src="./City%20Office%201.png" width="900"/>
+  <img src="./City%20Office%202.png" width="900"/>
+  <img src="./City%20Office%203.png" width="900"/>
+  <img src="./City%20Office%204.png" width="900"/>
 </p>
 
 ---
@@ -91,20 +91,20 @@ Controller → Service → Repository pattern
 
 Some key decisions made during development:
 
-- Use of relational database to ensure financial consistency
-- Modular backend structure for scalability
-- Clear domain modeling for business entities
-- Separation between financial logic and UI layer
-- API-first backend design
+- Use of relational database to ensure financial consistency  
+- Modular backend structure for scalability  
+- Clear domain modeling for business entities  
+- Separation between financial logic and UI layer  
+- API-first backend design  
 
 ---
 
 ## 📈 Future Improvements
 
-- Role-based access control
-- Advanced reporting module
-- Multi-company support
-- Performance optimization layer
+- Role-based access control  
+- Advanced reporting module  
+- Multi-company support  
+- Performance optimization layer  
 
 ---
 
